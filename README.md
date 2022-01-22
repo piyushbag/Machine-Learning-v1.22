@@ -1,2 +1,2 @@
-# Machine-Learning-v1.0
-A complete pathway to Machine learning steps
+# Machine-Learning-v1.22
+Quick hands-on with Machine Learning Algorithms
